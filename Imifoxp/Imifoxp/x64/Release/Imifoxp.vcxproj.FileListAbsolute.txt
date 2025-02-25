@@ -1,0 +1,6 @@
+E:\Programing\Imifoxp\Imifoxp\x64\Release\Imifoxp.vcxproj.AssemblyReference.cache
+E:\Programing\Imifoxp\Imifoxp\x64\Release\Imifoxp.MyForm.resources
+E:\Programing\Imifoxp\Imifoxp\x64\Release\Imifoxp.vcxproj.GenerateResource.cache
+E:\Programing\C++\Imifoxp\Imifoxp\x64\Release\Imifoxp.vcxproj.AssemblyReference.cache
+E:\Programing\C++\Imifoxp\Imifoxp\x64\Release\Imifoxp.MyForm.resources
+E:\Programing\C++\Imifoxp\Imifoxp\x64\Release\Imifoxp.vcxproj.GenerateResource.cache

@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(510,57): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(540,53): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(544,52): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(548,35): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(735,43): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(802,37): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programing\C++\ClearSystem\ClearSystem\MyForm.h(838,39): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ClearSystem.vcxproj -> E:\Programing\C++\ClearSystem\x64\Release\ClearSystem.exe
